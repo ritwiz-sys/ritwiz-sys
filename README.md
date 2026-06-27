@@ -1,6 +1,6 @@
 # Hey, I'm Ritwiz 👋
 
-B.Tech CSE @ VIT Amaravati (2026) | Full Stack Developer → LLM Engineer in Making
+B.Tech CSE @ VIT Amaravati (2026) | Full Stack Developer
 
 ---
 
@@ -11,7 +11,7 @@ B.Tech CSE @ VIT Amaravati (2026) | Full Stack Developer → LLM Engineer in Mak
 - 🤖 Actively learning LLM Engineering — RAG, Agents, Fine-tuning
 - 🕺 Dance Club Coordinator @ VIT Amaravati
 - 🌱 Currently deep diving into: NumPy, RAG Systems, AI Agents
-- 🎯 Goal: LLM Engineer with strong full stack foundation
+
 
 ---
 
