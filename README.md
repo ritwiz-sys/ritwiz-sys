@@ -9,8 +9,7 @@ B.Tech CSE @ VIT Amaravati (2026) | Full Stack Developer
 - 🎓 Second year CSE student at VIT Amaravati
 - 💻 Building full stack apps with real users
 - 🤖 Actively learning LLM Engineering — RAG, Agents, Fine-tuning
-- 🕺 Dance Club Coordinator @ VIT Amaravati
-- 🌱 Currently deep diving into: NumPy, RAG Systems, AI Agents
+  
 
 
 ---
