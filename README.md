@@ -62,7 +62,7 @@ B.Tech CSE @ VIT Amaravati (2026) | Full Stack Developer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwiz-sys&layout=compact&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritwiz-sys&theme=radical&hide_border=true)
+
 
 ---
 
